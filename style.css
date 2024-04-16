@@ -1,0 +1,8 @@
+body {
+  display: flex;
+}
+
+.container {
+  height: 500px;
+  width: 500px;
+}
